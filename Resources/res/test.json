@@ -1,0 +1,24 @@
+{
+    "object1":
+	{
+		"id":1,
+		"name":"xiaohei",
+		"skill":"chenmo"	
+	},
+    "object2":
+	{
+		"id":2,
+		"name":"xiaolv",
+		"skill":"meihuo"	
+	},
+	"flag":true,
+	"null":null,
+	"price":123.5,
+	"arr":
+	["aa","bb","cc","dd"],
+	"arr2":
+	[
+	{"num":1,"item":["item1","item2","item3"]},
+	{"num":2,"item":["item11","item12","item13"]}
+	]
+}

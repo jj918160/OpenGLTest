@@ -1,0 +1,15 @@
+{
+    "obj":[
+    {"id":1,"price":"100","skill":"chenmo"},
+	{"id":2,"price":"200","skill":"不知带"},
+    {"id":3,"price":"200","skill":"到不待"},
+    {"id":4,"price":"199","skill":"特特特"},
+    {"id":5,"price":"188","skill":"呵呵呵"},
+    {"id":6,"price":"300","skill":"夫天反"},
+    {"id":7,"price":"666","skill":"骨头如"},
+    {"id":8,"price":"555","skill":"谷歌架构"},
+    {"id":9,"price":"345","skill":"固体好"},
+    {"id":10,"price":"653","skill":"覆盖给"}
+     ]
+    
+}
